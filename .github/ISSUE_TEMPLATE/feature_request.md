@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: cutt1
 about: Suggest an idea for this project
 
 ---
