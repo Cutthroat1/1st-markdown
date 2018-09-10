@@ -2,6 +2,6 @@
 layout: default
 ---
 
-{% include 01-name.md %}
 
-add # for requested changes
+
+git clone https://github.com/username/username.github.io
