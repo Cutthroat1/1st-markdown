@@ -1,2 +1,7 @@
-title: Welcome to my portfolio!
-theme: jekyll-theme-primer
+delete line 1
+delete line 2
+delete cayman theme and replace with a beach theme
+change caymen theme
+change title to cutthroats portfolio
+replace theme
+theme: jekyll_primer
