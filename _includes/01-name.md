@@ -1,2 +1,2 @@
-add header #<cutthroat1>
+#cutthroat1
 use command lines
