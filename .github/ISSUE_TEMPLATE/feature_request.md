@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: cutthroat1
+about: learning to code 
 
 ---
 
